@@ -35,4 +35,4 @@ Data source [here](https://www.kaggle.com/datasets/nadyinky/sephora-products-and
 
 --- 
 ## Deployment
-Try the model [here]().
+Try the model [here](https://huggingface.co/spaces/dnirfana/recommendation-based-on-review?logs=build).
